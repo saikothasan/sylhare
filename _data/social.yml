@@ -1,0 +1,14 @@
+# RSS specific
+rss: true         # Icons on the footer
+
+# Share button options
+share:
+  facebook: true
+  twitter: true
+  tumblr:
+  pinterest:
+  pocket:
+  reddit: true
+  linkedin: true
+  wordpress:
+  email: true
